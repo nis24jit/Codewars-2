@@ -2,7 +2,9 @@
 
 ![CodewarsLink](https://www.codewars.com/users/Aomine%20Daiki/badges/large)
 
-CodeWars Solutions on JavaScript
-First, try to solve the kata yourself :wink:
-If some solutions helps you, please leave a star
-Feel free to add me on codewars [Add me](https://www.codewars.com/users/Aomine%20Daiki)
+### Codewars is a great place to develop your skills and get new knowledge
+
+CodeWars Solutions on JavaScript <br />
+First, try to solve the kata yourself :wink: <br />
+If some solutions helps you, please leave a star <br />
+Feel free to add me on codewars [Add me on CodeWars](https://www.codewars.com/users/Aomine%20Daiki) <br />

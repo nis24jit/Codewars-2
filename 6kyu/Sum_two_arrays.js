@@ -1,7 +1,9 @@
 function addArrays(array1, array2) {
-  let arrayToNumber1 = parseInt(array1.join(""));
-  let arrayToNumber2 = parseInt(array2.join(""));
-  return String(arrayToNumber1 + arrayToNumber2)
+  if (array1.length == 0 && array2.length == 0) return [];
+  const res = [];
+  (+array1.join("") + +array2.join(""))
+    .toString()
     .split("")
-    .map((el) => +el);
+    .forEach((el, i, arr) => (el === "-" ? (arr[i + 1] *= -1) : res.push(+el)));
+  return res;
 }

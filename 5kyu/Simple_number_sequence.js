@@ -1,5 +1,4 @@
 //Simple number sequence
-
 function missing(s) {
   let first;
   let j = 1;

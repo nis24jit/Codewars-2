@@ -1,5 +1,4 @@
 //Backwards Read Primes
-
 function backwardsPrime(start, stop) {
   const arr = [];
   for (let i = start; i <= stop; i++) {

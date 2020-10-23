@@ -1,5 +1,4 @@
 //Sort Strings by Most Contiguous Vowels
-
 function sortStringsByVowels(arr) {
   return arr.sort((a, b) => checkLengthVowels(b) - checkLengthVowels(a));
 }

@@ -1,5 +1,4 @@
 //Casino chips
-
 function solve(arr) {
   let count = 0;
   arr = arr.sort((a, b) => b - a);

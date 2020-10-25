@@ -1,5 +1,4 @@
 //Cryptanalysis Word Patterns
-
 export function wordPattern(word: string): string {
   let s: string = "";
   let res: string = "";

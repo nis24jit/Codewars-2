@@ -19,8 +19,6 @@ function getStartTime(s, d) {
     }
   }
   for (let j = 0; j < res[0].length; j++) {
-    const dif = formateTime(res[0][j][0], res[0][j][1]) - d;
-
     const filtered = res.map((el, i) => {
       return el.filter((time) => formateTime(res[0][j][0], time[1]) > 0);
     });

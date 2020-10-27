@@ -42,6 +42,7 @@ function getStartTime(s, d) {
       }
     }
   }
+  
   return null;
 }
 

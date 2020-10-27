@@ -1,5 +1,4 @@
 //Finding an appointment
-
 function getStartTime(s, d) {
   let res = [];
   for (let i = 0; i < s.length; i++) {

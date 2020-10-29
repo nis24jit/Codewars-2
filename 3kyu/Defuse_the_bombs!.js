@@ -19,7 +19,6 @@ Bomb.diffuse(new Date().setFullYear(2016));
 Bomb.key = 43;
 Object.defineProperty(Bomb, "key", { configurable: false, writable: false });
 Bomb.diffuse(Bomb);
-
 // 2
 var obj = function () {
   var seen = false;

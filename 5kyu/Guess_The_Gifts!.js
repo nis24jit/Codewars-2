@@ -1,5 +1,4 @@
 //Guess The Gifts!
-
 function guessGifts(wishlist, presents) {
   const res = [];
   for (let i = 0; i < presents.length; i++) {

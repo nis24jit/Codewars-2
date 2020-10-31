@@ -1,5 +1,4 @@
 // Learning TypeScript. Basic Types. Type Assertions
-
 export class SuccessServerResult {
     constructor (public httpCode: number, public resultObject:Object) {}
   }

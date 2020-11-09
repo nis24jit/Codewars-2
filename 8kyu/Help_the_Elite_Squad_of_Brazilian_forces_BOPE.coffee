@@ -1,5 +1,4 @@
 # Help the Elite Squad of Brazilian forces BOPE.
-
 magNumber=(info)->
   if info[0] == 'PT92'
     return Math.ceil(info[1]*3 / 17)

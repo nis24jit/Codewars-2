@@ -1,5 +1,4 @@
 //Playing with cubes II
-
 function Cube(n = 0) {
   this.side = n;
   this.getSide = function () {

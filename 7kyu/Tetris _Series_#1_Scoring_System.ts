@@ -1,5 +1,4 @@
 // /Tetris Series #1 — Scoring System
-
 export function getScore(arr: number[]) {
   let num: number[] = [0, 40, 100, 300, 1200];
   let c = 1;

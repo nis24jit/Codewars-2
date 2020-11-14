@@ -1,5 +1,4 @@
 #Even or Odd - Which is Greater?
-
 def even_or_odd(s):
     l = list(map(int,s))
     odd = sum(n for n in l if n&1)

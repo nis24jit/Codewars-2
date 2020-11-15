@@ -1,5 +1,4 @@
 //extract file name
-
 class FileNameExtractor {
   static extractFileName(dirtyFileName) {
     let start = dirtyFileName.indexOf("_"),

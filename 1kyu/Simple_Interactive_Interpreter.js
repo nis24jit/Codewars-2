@@ -1,5 +1,4 @@
 //Simple Interactive Interpreter
-
 const constants = {
     namesOfVars: 'abcdefghijklmnopqrstuvwxyz',
     opVars: '+-/%*'

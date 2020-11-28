@@ -69,15 +69,12 @@ Compiler.prototype.constructAST = function (ast) {
     return ast
 }
 
-
 Compiler.prototype.traslateToAssebmly = function (ast) {
     if (this.opAssembly[ast.op]) {
         return [...this.traslateToAssebmly(ast.a), 'PU', ...this.traslateToAssebmly(ast.b), 'SW', 'PO', this.opAssembly[ast.op]];
     }
     return ast.op == 'imm' ? [`IM ${ast.n}`] : [`AR ${ast.n}`]
 }
-
-
 
 Compiler.prototype.parseArguments = function (tokens) {
     const args = {};
@@ -111,7 +108,6 @@ Compiler.prototype.checkOpImportance = function (a, b) {
         (a === '-' && b === '+')) || ((a === '*' || a === '/') &&
         (b === '+' || b === '-'))
 }
-
 
 Compiler.prototype.parseTokens = function (args, tokens) {
     const res = [];

@@ -1,5 +1,4 @@
 //Simple letter removal
-
 function solve(s, k) {
     const sk = s.split('').sort().slice(0, k)
     const obj = {};

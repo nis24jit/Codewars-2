@@ -1,3 +1,4 @@
+//Tiny Three-Pass Compiler
 function Compiler() {
     this.op = {
         '+': true,

@@ -1,5 +1,4 @@
 //The Poet And The Pendulum
-
 function pendulum(values) {
     let r = []
     let l = []

@@ -23,4 +23,5 @@ def add(num1, num2):
         else:
             curNum = int(num2[i]) + int(num1[i])
             res.insert(0, str(curNum))
+            
     return int(''.join(res))

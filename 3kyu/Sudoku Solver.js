@@ -1,4 +1,5 @@
 function sudoku(board) {
+    
     const find = findEmpty(board)
     if (!find) return true
     else {

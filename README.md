@@ -1,5 +1,7 @@
 # Codewars kata
 
+<p align="center"><img height="500" width="auto" src="./codew.png" /></p>
+
 ### Codewars is a great place to develop your skills and get new knowledge
 
 First, try to solve the kata yourself :wink: <br />

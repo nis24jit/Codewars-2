@@ -1,6 +1,6 @@
 # Codewars kata
 
-<p align="center"><img height="500" width="auto" src="./codew.png" /></p>
+<p align="center"><img height="300" width="auto" src="./codew.png" /></p>
 
 ### Codewars is a great place to develop your skills and get new knowledge
 

@@ -1,6 +1,6 @@
 # Codewars kata
 
-<p align="center"><img height="300" width="auto" src="./codew.png" /></p>
+<p align="center"><img height="300" width="auto" src="./codewars.png" /></p>
 
 ### Codewars is a great place to develop your skills and get new knowledge
 
@@ -13,4 +13,4 @@ Each kata on the site is set to a Kyu/Dan rank, based on its subject area and di
 
 What are Kyu and Dan? The terms are borrowed from a system in Japanese martial arts, which is in turn borrowed from the game of Go. Kyu indicates the number of degrees away from master level (Dan).
 
-<p align="left"><img height="442" width="auto" src="./c1.png" /></p>
+<p align="left"><img height="442" width="auto" src="./1.png" /></p>

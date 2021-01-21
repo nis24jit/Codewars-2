@@ -12,5 +12,3 @@ Kata are real code challenges focused on improving skill and technique. Some tra
 Each kata on the site is set to a Kyu/Dan rank, based on its subject area and difficulty. The community collectively determines rank in the Beta Process. Every new Codewarrior (user) on Codewars starts being ranked as 8 Kyu.
 
 What are Kyu and Dan? The terms are borrowed from a system in Japanese martial arts, which is in turn borrowed from the game of Go. Kyu indicates the number of degrees away from master level (Dan).
-
-<p align="left"><img height="442" width="auto" src="./1.png" /></p>

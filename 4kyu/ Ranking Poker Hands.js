@@ -44,7 +44,6 @@ function fullHouse(arr) {
 }
 
 function flush(arr) {
-  let sum = 0;
   if (arr.every((e) => e[1] === arr[0][1])) {
     return 7;
   }

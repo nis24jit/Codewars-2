@@ -14,7 +14,6 @@ function additionWithoutCarrying(a, b) {
       aLen--;
     } else {
       const cur = String(+a[aLen] + +b[bLen]);
-      console.log(+String(cur)[cur.length - 1]);
       ans.unshift(+String(cur)[cur.length - 1]);
       aLen--;
       bLen--;

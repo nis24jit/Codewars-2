@@ -5,6 +5,7 @@ def add(num1, num2):
     minLength = min(len(str(num1)), len(str(num2)))
     res = []
     curNum = 0
+    
     for i in range(length-1, -1, -1):
         if(len(num1) > len(num2)):
             if(minLength < 1):

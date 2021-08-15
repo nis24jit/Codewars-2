@@ -5,6 +5,7 @@ const findPrime = (n:number): boolean => {
     return n > 1
   }
   
+  
   export const twinPrime = (n: number): number => {
     const twinPrimes: number[] = []
     for(let i = 2; i <= n+1; i++) {
